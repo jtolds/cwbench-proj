@@ -10,9 +10,6 @@
 [submodule "src/github.com/spacemonkeygo/spacelog"]
 	path = src/github.com/spacemonkeygo/spacelog
 	url = git@github.com:spacemonkeygo/spacelog.git
-[submodule "src/github.com/jtolds/webhelp"]
-	path = src/github.com/jtolds/webhelp
-	url = git@github.com:jtolds/webhelp.git
 [submodule "src/github.com/jinzhu/gorm"]
 	path = src/github.com/jinzhu/gorm
 	url = git@github.com:jinzhu/gorm.git
@@ -31,9 +28,6 @@
 [submodule "src/golang.org/x/crypto"]
 	path = src/golang.org/x/crypto
 	url = git@github.com:golang/crypto.git
-[submodule "src/github.com/jtolds/webhelp-oauth2"]
-	path = src/github.com/jtolds/webhelp-oauth2
-	url = git@github.com:jtolds/webhelp-oauth2.git
 [submodule "src/github.com/jtolds/cwbench"]
 	path = src/github.com/jtolds/cwbench
 	url = git@github.com:jtolds/cwbench.git
@@ -49,3 +43,9 @@
 [submodule "src/github.com/golang/protobuf"]
 	path = src/github.com/golang/protobuf
 	url = https://github.com/golang/protobuf
+[submodule "src/gopkg.in/go-webhelp/whoauth2.v1"]
+	path = src/gopkg.in/go-webhelp/whoauth2.v1
+	url = https://github.com/go-webhelp/whoauth2
+[submodule "src/gopkg.in/webhelp.v1"]
+	path = src/gopkg.in/webhelp.v1
+	url = https://github.com/go-webhelp/webhelp
